@@ -237,6 +237,11 @@ PrefabInstance:
       propertyPath: m_Range
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 1698233827162186783, guid: 70243c294dff57f4d9db01daad04eb0e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1698233827514127434, guid: 70243c294dff57f4d9db01daad04eb0e,
         type: 3}
       propertyPath: m_Intensity
@@ -296,6 +301,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Range
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1698233828350383047, guid: 70243c294dff57f4d9db01daad04eb0e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1698233828439422771, guid: 70243c294dff57f4d9db01daad04eb0e,
         type: 3}
@@ -1508,7 +1518,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 183cbd347d25080429f42b520742bbd8, type: 2}
+  sharedProfile: {fileID: 11400000, guid: c20b2f2ed9a24294f9b5f6125383ae85, type: 2}
 --- !u!4 &581876911
 Transform:
   m_ObjectHideFlags: 0
